@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jiineom&utm_content=line">
   <img
