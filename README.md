@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=360&text=Hello+%28%E0%B9%91%E2%95%B9%CF%89%E2%95%B9%E0%B9%91+%29&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
-
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jiineom&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/jiineom"
@@ -7,6 +5,8 @@
     height="300"
   />
 </a>
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=360&text=Hello+%28%E0%B9%91%E2%95%B9%CF%89%E2%95%B9%E0%B9%91+%29&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
   
 <!--
 **jiineom/jiineom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
