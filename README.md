@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=jiineom&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jiineom"
+  width="600"
+  height="300"
+/>
+</a>
 <!--
 **jiineom/jiineom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
